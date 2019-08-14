@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 682248ac51634f94ea29e47766b84d8f, type: 3}
+  m_Name: Wave 10
+  m_EditorClassIdentifier: 
+  field_gameObject_enemy: {fileID: 8965312987713969412, guid: 33fd36042f8af2741bcb9d2a68162b72,
+    type: 3}
+  field_gameObject_pathway: {fileID: 1774811783288642698, guid: d7c87b40c3c253c47b2beb523d5186bd,
+    type: 3}
+  field_float_spawnInterval: 0.8
+  field_float_spawnRandomInterval: 0.23
+  field_float_velocity: 2
+  field_int_howManyEnemies: 4
